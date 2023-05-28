@@ -1,0 +1,5 @@
+name: PlaxerHub
+version: '${project.version}'
+main: org.plaxerstudios.it.plaxerhub.PlaxerHub
+api-version: 1.18
+authors: [Plaxer's Studios developer]
