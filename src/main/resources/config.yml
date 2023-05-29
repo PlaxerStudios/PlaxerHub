@@ -1,0 +1,20 @@
+# Join message
+
+JoinMSG:
+  Enable: true
+  Message: "&7[&a&l+&7] &b%player%"
+
+# Quit message
+
+QuitMSG:
+  Enable: true
+  Message: "&7[&c&l-&7] &b%player%"
+
+# hub system
+Hub:
+  x: 0
+  y: 100
+  z: 0
+  Pitch: 0
+  Yaw: -90
+  World: "World"
