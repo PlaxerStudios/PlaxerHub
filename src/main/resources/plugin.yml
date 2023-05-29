@@ -4,6 +4,6 @@ main: org.plaxerstudios.it.plaxerhub.PlaxerHub
 api-version: 1.18
 authors: [Plaxer's Studios developer]
 commands:
-  hub:
-  sethub:
-    permission: plaxerhub.sethub
+  Spawn:
+  setsetSpawn:
+    permission: plaxerhub.setSpawn
